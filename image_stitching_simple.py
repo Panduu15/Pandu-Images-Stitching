@@ -1,5 +1,5 @@
 # USAGE
-# python image_stitching_simple.py --images images/scottsdale --output output.png
+# python image_stitching_simple.py --images images/Aerial --output hasil.png
 
 # import the necessary packages
 from imutils import paths
